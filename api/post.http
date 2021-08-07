@@ -1,0 +1,24 @@
+POST http://localhost:3000/ HTTP/1.1
+content-type: application/json
+
+{
+    "registroANS":"registro",
+    "CNPJ":"algum cnpj",
+    "razaoSocial":"ze ruela",
+    "nomeFantasia":"zezin",
+    "modalidade":"modular",
+    "logradouro":"logando...",
+    "numero":"inteiro",
+    "complemento":"eu sou um inteiro",
+    "bairro":"barroso",
+    "cidade":"city",
+    "UF":"UFC",
+    "CEP":"cepau no meu cu",
+    "DDD":"du dudu edu",
+    "telefone":"40028922",
+    "Fax":"faxina",
+    "email":"ecommerce",
+    "represetante":"de sala",
+    "cargoRpresentante":"alto",
+    "dataRegistroANS":"30 de fevereiro"
+}

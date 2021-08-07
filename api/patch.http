@@ -1,0 +1,10 @@
+PATCH  http://localhost:3000/ HTTP/1.1
+content-type: application/json
+
+{
+    "CNPJ":"algum cnpj",
+    "changes":{
+        "razaoSocial":"Jose Algo",
+        "numero":"bem grande"
+    }
+}
